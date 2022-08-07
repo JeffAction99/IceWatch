@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46abc8406b60bfa479d66fc9e1e87e50, type: 3}
+  m_Name: NoteDescription
+  m_EditorClassIdentifier: 
+  text:
+  - "<b>Research day 1</b> \nExtremely cold temperatures\ncompared to previous years,\nsomething
+    is unusual...\nResearch are starting well but \nmust <b> not be lost </b>, it
+    \ncould massively help the future.\n\nDo not forget to pay attention\nto your
+    stamina and temperature\nmy co-researchers! \n\nAnd please, report to us\nhow
+    effective your new \nskating material is! "
+  - 
+  - 
